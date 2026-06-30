@@ -9,3 +9,5 @@ coverage
 /.idea
 build/report.junit.xml
 
+config.bat
+node_modules
